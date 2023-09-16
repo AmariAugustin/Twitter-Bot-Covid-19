@@ -1,4 +1,4 @@
-<!DOCTYPE html><html><head><meta charset="utf-8"><title>Dillinger.md</title><style></style></head><body id="preview">
+<!DOCTYPE html><html><head><meta charset="utf-8"></head><body id="preview">
 <h1 class="code-line" data-line-start="1" data-line-end="2"><a id="Covid_19_TwitterBot_1"></a>Covid 19 TwitterBot</h1>
 <p class="has-line-data" data-line-start="3" data-line-end="5">Ce petit script python permet grace aux api de twitter et du gouverment concernant le covid-19 de faire un tweet avec un recap des chiffres clé du covid 19<br>
 Ce projet a était développé par moi même dans le cadre d’un projet a rendre en classe de Terminal NSI.</p>
